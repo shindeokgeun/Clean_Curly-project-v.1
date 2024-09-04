@@ -1,2 +1,1 @@
-# Git_One
-push test중
+테스트 중
